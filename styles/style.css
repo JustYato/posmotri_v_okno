@@ -23,6 +23,7 @@ fieldset {
   background-color: #1b1919;
   inline-size: 1200px;
   min-height: 800px;
+  block-size: 100%;
 }
 
 h1,
@@ -81,9 +82,7 @@ a {
   justify-content: space-between;
   gap: 30px;
   min-height: 534px;
-  margin-top: 133px;
-  margin-right: auto;
-  margin-left: auto;
+  margin: auto;
   inline-size: 1140px;
 }
 
